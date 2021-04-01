@@ -4,7 +4,7 @@ This is a simple neural network in Python with single input layer and output neu
 This is a perceptron type neural network.
 (A neural network with no hidden layers is called a perceptron.) 
 
-In the  I train the neural network 10000 iterations. Although it's not directly usable , it can be implemented in other own Neural Network as a fundamental program.  This will also help you get a basic understanding of how a neural network can be trained and how neural networks work in general.
+In the train_version.py I train the neural network 10000 iterations. Although it's not directly usable , it can be implemented in other own Neural Network as a fundamental program.  This will also help you get a basic understanding of how a neural network can be trained and how neural networks work in general.
 
 The program is written entirely in Python and the only library used is Numpy.
 The neural network uses Sigmoid funtion (Although it prevents the neural network to get 100% accurate answer.)
